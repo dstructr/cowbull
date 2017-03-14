@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cow Bull</string>
+    <string name="Play">PLAY</string>
+    <string name="Multiplayer">MULTIPLAYER</string>
+    <string name="Instructions">INSTRUCTIONS hola</string>
+    <string name="Settings">SETTINGS</string>
+    <string name="Quit">QUIT</string>
+    <string name="Name">It is a vocabulary game. It consist of a four letter(unique) word which you need to guess. For guessing the word you will be given eight chances. In each chance you can make random guess. The number of letters common in your guess and the actual word is the number of cows and the number of position of letters common in your guess and the actual word is the number of bulls. GOAT and LOST is  2 bull, KITE and LIKE is 1 cow and 2 bull</string>
+    <string name="title_activity_inst">inst</string>
+
+</resources>
