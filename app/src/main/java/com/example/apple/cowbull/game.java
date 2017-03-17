@@ -35,7 +35,6 @@ public class game extends AppCompatActivity {
         edit2.addTextChangedListener(g2);
         edit3.addTextChangedListener(g3);
         edit4.addTextChangedListener(g4);
-        edit1.setFilters(new InputFilter[] {new InputFilter.AllCaps()});
      //   edit2.setFilters(new InputFilter[] {new InputFilter.AllCaps()});
     }
 
@@ -58,7 +57,7 @@ public class game extends AppCompatActivity {
 
         @Override
         public void afterTextChanged(Editable s) {
-
+            
         }
     };
     private final TextWatcher  g2 = new TextWatcher()
